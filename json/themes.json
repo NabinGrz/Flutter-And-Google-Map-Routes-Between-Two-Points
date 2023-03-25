@@ -1,0 +1,218 @@
+[
+    {
+        "name": "darkpurple",
+        "palettes": [
+            {
+                "label": "bg-darkpurple-700",
+                "value": "#313f9f"
+            },
+            {
+                "label": "bg-darkpurple-500",
+                "value": "#4760FD"
+            },
+            {
+                "label": "bg-darkpurple-300",
+                "value": "#8292FA"
+            },
+            {
+                "label": "bg-darkpurple-200",
+                "value": "#C1C9FA"
+            },
+            {
+                "label": "bg-darkpurple-100",
+                "value": "#F1F3FF"
+            }
+        ],
+        "primaryTextColor": "darkpurple",
+        "textColor": "white"
+    },
+    {
+        "name": "darkblue",
+        "palettes": [
+            {
+                "label": "bg-darkblue-700",
+                "value": "#175C9D"
+            },
+            {
+                "label": "bg-darkblue-500",
+                "value": "#47A4FC"
+            },
+            {
+                "label": "bg-darkblue-300",
+                "value": "#65B4FF"
+            },
+            {
+                "label": "bg-darkblue-200",
+                "value": "#A4CFF8"
+            },
+            {
+                "label": "bg-darkblue-100",
+                "value": "#CEE4F9"
+            }
+        ],
+        "primaryTextColor": "darkblue",
+        "textColor": "white"
+    },
+    {
+        "name": "orange",
+        "palettes": [
+            {
+                "label": "bg-orange-700",
+                "value": "#ff7216"
+            },
+            {
+                "label": "bg-orange-500",
+                "value": "#F9803F"
+            },
+            {
+                "label": "bg-orange-300",
+                "value": "#FD9A65"
+            },
+            {
+                "label": "bg-orange-100",
+                "value": "#FFCBA9"
+            },
+            {
+                "label": "bg-orange-100",
+                "value": "#F8E5D0"
+            }
+        ],
+        "primaryTextColor": "orange",
+        "textColor": "white"
+    },
+    {
+        "name": "blue",
+        "palettes": [
+            {
+                "label": "bg-blue-900",
+                "value": "#1e3a8a"
+            },
+            {
+                "label": "bg-blue-700",
+                "value": "#1d4ed8"
+            },
+            {
+                "label": "bg-blue-500",
+                "value": "#3b82f6"
+            },
+            {
+                "label": "bg-blue-300",
+                "value": "#93c5fd"
+            },
+            {
+                "label": "bg-blue-100",
+                "value": "#dbeafe"
+            }
+        ],
+        "primaryTextColor": "blue",
+        "textColor": "white"
+    },
+    {
+        "name": "purple",
+        "palettes": [
+            {
+                "label": "bg-purple-900",
+                "value": "#581c87"
+            },
+            {
+                "label": "bg-purple-700",
+                "value": "#7e22ce"
+            },
+            {
+                "label": "bg-purple-500",
+                "value": "#a855f7"
+            },
+            {
+                "label": "bg-purple-300",
+                "value": "#d8b4fe"
+            },
+            {
+                "label": "bg-purple-100",
+                "value": "#f3e8ff"
+            }
+        ],
+        "primaryTextColor": "purple",
+        "textColor": "white"
+    },
+    {
+        "name": "indigo",
+        "palettes": [
+            {
+                "label": "bg-indigo-900",
+                "value": "#4c1d95"
+            },
+            {
+                "label": "bg-indigo-700",
+                "value": "#6d28d9"
+            },
+            {
+                "label": "bg-indigo-500",
+                "value": "#8b5cf6"
+            },
+            {
+                "label": "bg-indigo-300",
+                "value": "#c4b5fd"
+            },
+            {
+                "label": "bg-indigo-100",
+                "value": "#ede9fe"
+            }
+        ],
+        "primaryTextColor": "indigo",
+        "textColor": "white"
+    },
+    {
+        "name": "red",
+        "palettes": [
+            {
+                "label": "bg-red-900",
+                "value": "#b81218"
+            },
+            {
+                "label": "bg-red-700",
+                "value": "#FE3E44"
+            },
+            {
+                "label": "bg-red-500",
+                "value": "#F9777C"
+            },
+            {
+                "label": "bg-red-300",
+                "value": "#FAB7BA"
+            },
+            {
+                "label": "bg-red-100",
+                "value": "#FFF5F5"
+            }
+        ],
+        "primaryTextColor": "red",
+        "textColor": "white"
+    },
+    {
+        "name": "yellow",
+        "palettes": [
+            {
+                "label": "bg-yellow-900",
+                "value": "#78350F"
+            },
+            {
+                "label": "bg-yellow-700",
+                "value": "#B45309"
+            },
+            {
+                "label": "bg-yellow-500",
+                "value": "#F59E0B"
+            },
+            {
+                "label": "bg-yellow-300",
+                "value": "#FCD34D"
+            },
+            {
+                "label": "bg-yellow-100",
+                "value": "#FEF3C7"
+            }
+        ],
+        "primaryTextColor": "yellow",
+        "textColor": "white"
+    }
+]

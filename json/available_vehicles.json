@@ -1,0 +1,10 @@
+[
+    {
+        "vehicle_allowed": 3,
+        "vehicle_class_id": 1
+    },
+    {
+        "vehicle_allowed": 10,
+        "vehicle_class_id": 8
+    }
+]

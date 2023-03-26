@@ -15,7 +15,7 @@ class Repo {
     try {
       Map<String, dynamic> querys = {
         'input': placeInput,
-        'key': AppString.google_map_api_key
+        'key': AppString.googleMapApiKey
       };
       final url = Uri.https(
           "maps.googleapis.com", "maps/api/place/autocomplete/json", querys);
@@ -37,7 +37,7 @@ class Repo {
       required Color color}) async {
     PolylinePoints polylinePoints = PolylinePoints();
     PolylineResult res = await polylinePoints.getRouteBetweenCoordinates(
-        AppString.google_map_api_key,
+        AppString.googleMapApiKey,
         PointLatLng(start.latitude, start.longitude),
         PointLatLng(end.latitude, end.longitude));
     if (res.points.isNotEmpty) {
